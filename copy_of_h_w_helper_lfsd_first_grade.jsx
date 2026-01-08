@@ -1,3 +1,4 @@
+"homepage": "https://jenniferbosley-LFSD.github.io/TrickWordFlashCards"
 import React, { useEffect, useRef, useState } from "react";
 
 const GAME_VERSION = "2025-11-13 10:00"; // date-hour-minute of latest update
